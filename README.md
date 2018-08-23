@@ -24,11 +24,7 @@
 
 设计效果:
 
-![登录页面](https://github.com/ZJQian/RN-Grocery/blob/master/screenshot/QQ20180823-105059.png)  
-
-![注册页面](https://github.com/ZJQian/RN-Grocery/blob/master/screenshot/QQ20180823-105212.png)  
-
-![忘记密码页面 ](https://github.com/ZJQian/RN-Grocery/blob/master/screenshot/QQ20180823-105237.png)
+![登录页面](https://github.com/ZJQian/RN-Grocery/blob/master/screenshot/QQ20180823-105059.png)   ![注册页面](https://github.com/ZJQian/RN-Grocery/blob/master/screenshot/QQ20180823-105212.png)   ![忘记密码页面 ](https://github.com/ZJQian/RN-Grocery/blob/master/screenshot/QQ20180823-105237.png)
 
 
 这里的忘记密码页面由于没有找到相应的接口, 所以这个页面就是个摆设(手动捂脸). 大家知道怎么回事就好了! 不要在意细节. (至于后续会不会加上这个功能, 我也不知道哦啊.... 不要抱太大希望!)
@@ -53,9 +49,7 @@
 
 效果如下:
 
-![热门](https://github.com/ZJQian/RN-Grocery/blob/master/screenshot/QQ20180823-111130.png)  
-
-![热门详情](https://github.com/ZJQian/RN-Grocery/blob/master/screenshot/QQ20180823-111146.png)
+![热门](https://github.com/ZJQian/RN-Grocery/blob/master/screenshot/QQ20180823-111130.png)   ![热门详情](https://github.com/ZJQian/RN-Grocery/blob/master/screenshot/QQ20180823-111146.png)
 
 
 这个也是**开眼** 的接口, 可以播放视频.
