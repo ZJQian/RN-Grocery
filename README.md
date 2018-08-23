@@ -67,7 +67,7 @@
 
 
 
-[项目地址](https://gitee.com/zjqian/RN-Grocery)
+[项目地址](https://github.com/ZJQian/RN-Grocery)
 
 
 
