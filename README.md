@@ -24,7 +24,11 @@
 
 设计效果:
 
-![登录页面](https://img-blog.csdn.net/2018082310574362?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1RocmVlX1poYW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)  ![注册页面](https://img-blog.csdn.net/20180823105758383?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1RocmVlX1poYW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)  ![忘记密码页面 ](https://img-blog.csdn.net/20180823105809398?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1RocmVlX1poYW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![登录页面](https://github.com/ZJQian/RN-Grocery/blob/master/screenshot/QQ20180823-105059.png)  
+
+![注册页面](https://github.com/ZJQian/RN-Grocery/blob/master/screenshot/QQ20180823-105212.png)  
+
+![忘记密码页面 ](https://github.com/ZJQian/RN-Grocery/blob/master/screenshot/QQ20180823-105237.png)
 
 
 这里的忘记密码页面由于没有找到相应的接口, 所以这个页面就是个摆设(手动捂脸). 大家知道怎么回事就好了! 不要在意细节. (至于后续会不会加上这个功能, 我也不知道哦啊.... 不要抱太大希望!)
@@ -33,7 +37,7 @@
 
 效果如下: 
 
-![首页](https://img-blog.csdn.net/20180823110434555?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1RocmVlX1poYW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![首页](https://github.com/ZJQian/RN-Grocery/blob/master/screenshot/QQ20180823-110315.png)
 
 这里的 banner 是找的鸿洋大佬的([传送门](http://wanandroid.com/index)), 电影和推荐歌单都是豆瓣的([传送门](https://developers.douban.com/wiki/?title=api_v2)), 目前只是一些数据的展示, 没有复杂的交互.
 
@@ -41,7 +45,7 @@
 
 效果如下:
 
-![发现](https://img-blog.csdn.net/20180823110929552?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1RocmVlX1poYW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![发现](https://github.com/ZJQian/RN-Grocery/blob/master/screenshot/QQ20180823-110920.png)
 
 这里的接口是网上扒的一个叫**开眼** app的, 具体的在哪里扒的 我也忘了.
 
@@ -49,7 +53,9 @@
 
 效果如下:
 
-![热门](https://img-blog.csdn.net/20180823111200982?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1RocmVlX1poYW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)  ![热门详情](https://img-blog.csdn.net/20180823111216269?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1RocmVlX1poYW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![热门](https://github.com/ZJQian/RN-Grocery/blob/master/screenshot/QQ20180823-111130.png)  
+
+![热门详情](https://github.com/ZJQian/RN-Grocery/blob/master/screenshot/QQ20180823-111146.png)
 
 
 这个也是**开眼** 的接口, 可以播放视频.
@@ -58,7 +64,7 @@
 
 效果如下:
 
-![我的](https://img-blog.csdn.net/20180823111357115?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1RocmVlX1poYW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![我的](https://github.com/ZJQian/RN-Grocery/blob/master/screenshot/QQ20180823-111346.png)
 
 
 这些简单的页面拼凑一下, 姑且称之为一个 App 吧, 没有什么逻辑, 但通过写这个东西, 真的能快速的锻炼能力. 
